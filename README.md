@@ -1,12 +1,13 @@
 ### Hi there, I'm Gabriel Frasson! 👋
 
 Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora</a>
-
-<div>
-  <a href="https://github.com/GFrasson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GFrasson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFrasson&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+  
+<a href="https://github.com/GFrasson">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GFrasson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/GFrasson">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFrasson&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
