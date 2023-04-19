@@ -2,10 +2,10 @@
 
 Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora</a>
   
-<a href="https://github.com/GFrasson">
+<a href="https://github-readme-stats.vercel.app/api?username=GFrasson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
   <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=GFrasson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/GFrasson">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GFrasson&layout=compact&theme=tokyonight&hide_border=true">
   <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFrasson&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
   
