@@ -3,7 +3,7 @@
 Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora</a>
   
 <a href="https://github-readme-stats.vercel.app/api?username=GFrasson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=GFrasson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=GFrasson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GFrasson&layout=compact&theme=tokyonight&hide_border=true">
   <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFrasson&layout=compact&theme=tokyonight&hide_border=true" />
@@ -16,11 +16,12 @@ Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Fe
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabriel-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> 
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Gabriel-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Gabriel-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Gabriel-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<!--   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> -->
+<!--   <img align="center" alt="Gabriel-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> -->
+<!--   <img align="center" alt="Gabriel-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> -->
+  <img align="center" alt="Gabriel-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />   
 </div>
   
 ##
